@@ -1,0 +1,6 @@
+numpy==2.5.4
+langchain 
+langchain-community
+langchain-huggingface 
+sentence-transformers
+
